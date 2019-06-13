@@ -3,12 +3,37 @@
     <title>PWTConocimiento</title>
     <link href="https://pwtconocimiento.github.io/feed.xml" rel="self" />
     <link href="https://pwtconocimiento.github.io" />
-    <updated>2019-06-13T14:05:20-05:00</updated>
+    <updated>2019-06-13T18:47:12-05:00</updated>
     <author>
         <name>Profr. Juan Carlos Cuello</name>
     </author>
     <id>https://pwtconocimiento.github.io</id>
 
+    <entry>
+        <title>Facebook está desarrollando un asistente virtual</title>
+        <author>
+            <name>Profr. Juan Carlos Cuello</name>
+        </author>
+        <link href="https://pwtconocimiento.github.io/facebook-esta-desarrollando-un-asistente-virtual.html"/>
+        <id>https://pwtconocimiento.github.io/facebook-esta-desarrollando-un-asistente-virtual.html</id>
+
+        <updated>2019-06-13T18:47:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                     La I.A. ya es parte de nuestro día a día y en el caso de los asistente virtuales, grandes empresas como Google, Apple, Amazon e incluso Microsoft no desaprovecharon la oportunidad de desarrollar cada quien su proyecto. Aunque al final a Microsoft no le&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://pwtconocimiento.github.io/media/posts/9/facebook_2.jpg" alt="" width="486" height="315"></p>
+<p id="h.p_G-BDwVbyhg_7" class="zfr3Q">La I.A. ya es parte de nuestro día a día y en el caso de los asistente virtuales, grandes empresas como Google, Apple, Amazon e incluso Microsoft no desaprovecharon la oportunidad de desarrollar cada quien su proyecto.</p>
+<p id="h.p_krKUXy-6hmMA" class="zfr3Q">Aunque al final a Microsoft no le fue también con cortana, pero este espacio no puedo dejarse libre y Facebook está enfocando sus esfuerzos en el desarrollo de un asistente virtual basado en IA. Es decir, una nueva competencia a los ya mencionados.</p>
+<p id="h.p_fGndzs-ChmMD" class="zfr3Q">Una división especial de Facebook dedicado al hardware, lleva trabajando en este nuevo proyecto desde comienzo de 2018. Según fuentes de CNBC, este asistente virtual estaría pensado para integrarse en diferentes servicios de Facebook, como los auriculares de Oculus o los dispositivos Portal.</p>
+<p id="h.p_cgIabRB_hmMF" class="zfr3Q">Me entere que no es la primera vez que Facebook tiene planes de desarrollar un asistente virtual, De hecho, presentó en 2015 a M, un asistente virtual integrado en Messenger.</p>
+<p id="h.p_VXUjkl-BhmMH" class="zfr3Q">Por obvias razones dejo de existir en 2018, ya que no se tuvo mucho éxito.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grabar la pantalla en Windows 10</title>
         <author>
