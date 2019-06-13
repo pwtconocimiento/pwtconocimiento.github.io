@@ -3,12 +3,37 @@
     <title>PWTConocimiento</title>
     <link href="https://pwtconocimiento.github.io/feed.xml" rel="self" />
     <link href="https://pwtconocimiento.github.io" />
-    <updated>2019-06-13T01:39:30-05:00</updated>
+    <updated>2019-06-13T01:47:07-05:00</updated>
     <author>
         <name>Profr. Juan Carlos Cuello</name>
     </author>
     <id>https://pwtconocimiento.github.io</id>
 
+    <entry>
+        <title>El nuevo escándalo de seguridad de Facebook tiene su origen en México</title>
+        <author>
+            <name>Profr. Juan Carlos Cuello</name>
+        </author>
+        <link href="https://pwtconocimiento.github.io/el-nuevo-escandalo-de-seguridad-de-facebook-tiene-su-origen-en-mexico.html"/>
+        <id>https://pwtconocimiento.github.io/el-nuevo-escandalo-de-seguridad-de-facebook-tiene-su-origen-en-mexico.html</id>
+
+        <updated>2019-06-13T01:46:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Parece que Facebook no deja de tener problemas de seguridad y para muestra un botón, ya que 540 millones usuarios registrados en Amazon no estaban protegidos. Esto es lo que me encontré en la web. Ayer, investigadores de UpGuard revelaron que servidores utilizados por dos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image align-center" src="https://pwtconocimiento.github.io/media/posts/2/social-media-1679234_1920.jpg" alt="" width="1920" height="1699"></p>
+Parece que Facebook no deja de tener problemas de seguridad y para muestra un botón, ya que 540 millones usuarios registrados en Amazon no estaban protegidos. Esto es lo que me encontré en la web.<br>Ayer, investigadores de UpGuard revelaron que servidores utilizados por dos desarrolladores de terceras partes de aplicaciones para Facebook expusieron datos de millones de usuarios que estaban almacenados en servidores de Amazon mal configurados, quedando la información al alcance público.<br>El primero proviene del sitio <em>Cultura Colectiva</em><strong>, pesa 146 gigabytes y contiene más de 540 millones de registros en texto plano que detallan “comentarios, likes, reacciones, nombres de cuentas, IDs de Facebook y más”.</strong><br><em>Cultura Colectiva</em> usó toda esta información para crear un algoritmo que <strong>le permitiera anticiparse a los gustos de sus usuarios y crear contenidos que generaran más interacciones, likes y tráfico.</strong> 146 gigabytes de un <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fcodigoespagueti.com%2Fnoticias%2Finternet%2F3-millones-de-datos-facebook-vulnerables%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNH43CXCksCjEfNKXRM8-1PTI-VodQ" target="_blank" rel="noopener noreferrer">archivo de texto</a>, es muchísima información.<br>El segundo es que también los investigadores también encontraron<strong> una copia de seguridad de la base de datos de una aplicación integrada en Facebook llamada “At the Pool”,</strong> expuesta públicamente a través del almacenamiento en la nube de Amazon. Esta base de datos incluía información de usuarios de Facebook como amigos, likes, eventos, grupos, check-ins, intereses, entre otros. “El descubrimiento de At the Pool no es tan grande como el conjunto de datos de <em>Cultura Colectiva</em>, pero contiene contraseñas de Facebook (sin protección) de texto sin formato para 22,000 usuarios”, afirma UpGuard.
+<div class="PwMt2d">
+<div class="a4qjWd EKJj3b"> </div>
+<strong>Facebook solicita dirección y contraseña del correo de los usuarios</strong></div>
+La otra noticia la dio a conocer el 31 de marzo un especialista en ciberseguridad, conocido como <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Foriginalesushi&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG_6FseUzmKK53EOl3I7kJ86nHxKw" target="_blank" rel="noopener noreferrer">e-sushi</a>, cuando a través de su cuenta de twitter publicó el hallazgo de que Facebook ha estado solicitando a nuevos usuarios que deciden registrase en la red social que ingresen la dirección y la contraseña de su cuenta de correo como parte del proceso de verificación. Si bien esto no es para todos los servicios de correo, el almacenamiento de esta información supone un riesgo para la seguridad de los usuarios.<br>Ustedes sabrán que tanto confían en las redes sociales y principalmente en Facebook que es uno de los preferidos de millones de usuarios que cada día se vuelven mas adictos a esta red social.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>¿Tus redes sociales fueron pirateadas?, 5 consejos para recuperarls</title>
         <author>
