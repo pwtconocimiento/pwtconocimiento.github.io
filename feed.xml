@@ -3,12 +3,57 @@
     <title>PWTConocimiento</title>
     <link href="https://pwtconocimiento.github.io/feed.xml" rel="self" />
     <link href="https://pwtconocimiento.github.io" />
-    <updated>2019-06-13T01:47:07-05:00</updated>
+    <updated>2019-06-13T12:43:55-05:00</updated>
     <author>
         <name>Profr. Juan Carlos Cuello</name>
     </author>
     <id>https://pwtconocimiento.github.io</id>
 
+    <entry>
+        <title>Como enviar un correo electrónico sin dejar rastro</title>
+        <author>
+            <name>Profr. Juan Carlos Cuello</name>
+        </author>
+        <link href="https://pwtconocimiento.github.io/como-enviar-un-correo-electronico-sin-dejar-rastro.html"/>
+        <id>https://pwtconocimiento.github.io/como-enviar-un-correo-electronico-sin-dejar-rastro.html</id>
+
+        <updated>2019-06-13T12:43:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                     Siguiendo el camino de la seguridad, ahora le toca al correo electrónico, si eres de los que quieres tener seguro todo lo que manejas en linea, a continuación te voy a dar unos pequeños pasos sobre como puedes enviar tu correo si dejar algo&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://pwtconocimiento.github.io/media/posts/3/email-3249062_1280.png" alt="" width="1280" height="716"></p>
+<p id="h.p_IIMgBQ5CGmrF" class="zfr3Q">Siguiendo el camino de la seguridad, ahora le toca al correo electrónico, si eres de los que quieres tener seguro todo lo que manejas en linea, a continuación te voy a dar unos pequeños pasos sobre como puedes enviar tu correo si dejar algo de rastro, estos pasos fue en base a una búsqueda en la red y me pareció que debía compartirles estos.</p>
+<div class="PwMt2d">
+<div class="a4qjWd EKJj3b"> </div>
+<strong>Localización: sal de tu casa</strong></div>
+<p id="h.p_HVLrQfdeHnqQ" class="zfr3Q">Utilizar el servicio de e-mail más anónimo del mundo puede servirte de muy poco si a la hora de enviar ese correo, lo haces desde la IP de tu casa.</p>
+<p id="h.p_N_fqMYydH1Oh" class="zfr3Q">Así que si no quieres que nadie se entere desde dónde estás enviando esa información confidencial, lo mejor es que te dirijas directamente a cualquier local o espacio público en el que puedas conectarte a una red WiFi segura y de calidad.</p>
+<div class="PwMt2d">
+<div class="a4qjWd EKJj3b"> </div>
+<strong>TOR o VPN</strong></div>
+<div class="PwMt2d"><img class="post__image align-center" src="https://pwtconocimiento.github.io/media/posts/3/tor-logo.png" alt="" width="1200" height="800"></div>
+<div class="PwMt2d">
+<p id="h.p_UMmE_aHrL7Kv" class="zfr3Q">Una de las formas más seguras de conectarse a Internet, especialmente si vamos a utilizar una WiFi pública, es apostar por una conexión VPN. Pero siendo este un método que desde luego oculta algunos datos de nuestra conexión, no nos garantiza ni mucho menos el anonimato.</p>
+<p id="h.p_9GA-d8upL7ks" class="zfr3Q">En primer lugar, porque una VPN hay que contratarla previamente (las VPN gratuitas deberíamos descartarlas de plano) y por supuesto, hay que emplear una tarjeta de crédito para ello. Y en segundo término, aunque hay algunas que aceptan otros métodos de pago (como Bitcoins), deberías asegurarte de que el proveedor que escoges <strong>se ha labrado cierta fama a la hora de defender los derechos de sus usuarios.</strong></p>
+<p><img class="post__image align-center" src="https://pwtconocimiento.github.io/media/posts/3/mejorar-conexion-vpn.jpg" alt="" width="690" height="335"></p>
+<p id="h.p_3AS95IuCMHnS" class="zfr3Q">Ante esta disyuntiva y tal y como os comentamos en el artículo anterior, la opción más interesante <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fwww.torproject.org%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHeDE0OPE8R8B5ghbBme4s8Q1suAQ" target="_blank" rel="noopener noreferrer">es optar por TOR</a>. Basado en Firefox, el navegador de Internet TOR (<em>The Onion Router</em>) enruta nuestra conexión a Internet a través de múltiples nodos, de modo que cuando finalmente nos conectamos a la Red, nuestra se oculta la IP real a través de la que nos estamos conectando. Aunque podemos instalar TOR en nuestro disco duro, también podemos instalarlo en una unidad USB, de modo que si por algún motivo alguien decide que es pertinente revisar nuestro PC, no levantemos sospechas.</p>
+<p id="h.p_RI7hhANRMH6N" class="zfr3Q"><strong>Nota:</strong> ten en cuenta que al utilizar el navegador TOR únicamente la actividad que realices en ese navegador será la que permanezca “anónima”. Cualquier otro proceso que se conecte a Internet en segundo plano (<em>por ejemplo si escuchas Spotify</em>), se conectará de la forma habitual.</p>
+<div class="a4qjWd EKJj3b">
+<h3 id="mcetoc_1dd8uuhi51"><strong>Utiliza un servicio de correo electrónico anónimo</strong></h3>
+<p><img class="post__image align-center" src="https://pwtconocimiento.github.io/media/posts/3/proton_mail.jpg" alt="" width="800" height="400"></p>
+<p id="h.p_9XlMqGKkNjff" class="zfr3Q">Una simple búsqueda en Google te permitirá encontrar decenas de servicios que te permitan enviar un e-mail “confidencial”. Y si tu intención es enviar un único correo electrónico, utilizar servicios como Guerrilla Mail o Secure-Email.org es desde luego una de las mejores y más sencillas formas de hacerlo.</p>
+<p id="h.p_4-4uhotyNj6N" class="zfr3Q">Ahora bien, si lo que vas a hacer es enviar correo anónimo con cierta asiduidad, lo que nos va a interesar es contar con un servicio completo. Uno de los más conocidos en este terreno es <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fprotonmail.com%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHxFqty0Hl8hC2XiObvIbOAH0PBFA" target="_blank" rel="noopener noreferrer"><strong>ProtonMail</strong></a>.</p>
+<p id="h.p_15FdNNA7Nj6R" class="zfr3Q">El que presume ser el servicio de correo electrónico más seguro del mundo, es famoso por su tecnología de encriptación de mensajes y cuenta con características extra como la posibilidad de que los mensajes que se envíen se autodestruyan dos horas después de haber sido recibidos.</p>
+<p id="h.p_5TCPIrWYNj6S" class="zfr3Q">Tanto es así, que ONG’s, activistas, periodistas y todo tipo de empresas han recurrido a ProtonMail como plataforma para comunicarse de forma segura. De la misma forma que Signal ha desbancado a WhatsApp en el campo de la privacidad, ProtonMail hace lo mismo con clientes de correo electrónico como Gmail, Outlook, Yahoo y otros.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>El nuevo escándalo de seguridad de Facebook tiene su origen en México</title>
         <author>
