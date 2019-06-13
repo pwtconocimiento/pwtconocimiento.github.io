@@ -3,12 +3,37 @@
     <title>PWTConocimiento</title>
     <link href="https://pwtconocimiento.github.io/feed.xml" rel="self" />
     <link href="https://pwtconocimiento.github.io" />
-    <updated>2019-06-13T12:46:28-05:00</updated>
+    <updated>2019-06-13T12:59:31-05:00</updated>
     <author>
         <name>Profr. Juan Carlos Cuello</name>
     </author>
     <id>https://pwtconocimiento.github.io</id>
 
+    <entry>
+        <title>Microsoft Edge con sabor a Chromium</title>
+        <author>
+            <name>Profr. Juan Carlos Cuello</name>
+        </author>
+        <link href="https://pwtconocimiento.github.io/microsoft-edge-con-sabor-a-chromium.html"/>
+        <id>https://pwtconocimiento.github.io/microsoft-edge-con-sabor-a-chromium.html</id>
+
+        <updated>2019-06-13T12:59:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                     Bueno, parece ser que el dominio de Microsoft en cuanto a navegadores no le esta funcionando. Haciendo un poco de historia recordemos que Internet Explorer fue uno de los navegadores que desterraron al navegador Mosaic, ya que al ser instalado por defecto con windows&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://pwtconocimiento.github.io/media/posts/4/edge-chromium.jpg" alt="" width="715" height="714"></p>
+<p id="h.p_lpcKwdPxnGRZ" class="zfr3Q">Bueno, parece ser que el dominio de Microsoft en cuanto a navegadores no le esta funcionando. Haciendo un poco de historia recordemos que Internet Explorer fue uno de los navegadores que desterraron al navegador Mosaic, ya que al ser instalado por defecto con windows los usuarios ya no tenían que instalar ni pagar por otros navegadores web.</p>
+<p id="h.p_xIYVW5PPqUft" class="zfr3Q">Con la nuevas épocas han existido mejores competencias y es por eso que Internet Explorer al no ser actualizado por muchos años se quedo sin usuarios que lo utilizaran al 100%. Todos pensabamos que ya no tendría vida hasta que con Windows 10 saco Microsoft Edge con cambios significativos, aun así la competencia es ya demasiado grande como para quedarse atrás, al verse superado por Google chrome, Mozila y otros mas, se vio en la necesidad de cambiar su motor de busqueda a chromium.</p>
+<p id="h.p_tyuLXwxRtjAM" class="zfr3Q">Han pasado exactamente tres meses desde que Microsoft confirmara que su navegador <strong>Edge pasaría a basarse en Chromium</strong>, el proyecto open source de Google en el que se basan Chrome y otros navegadores como Opera o Vivaldi.</p>
+<p id="h.p_5PY-e-yht-G-" class="zfr3Q">Como nota importante cabe mencionar que Microsoft a invertido al proyecto open source y para eso a invertido en la compra de GitHun, en el cual se alojan repositorios y codigo fuente de programas.</p>
+<p id="h.p_7AG6zyouuwFw" class="zfr3Q">Si te interesa probar esta versión les dejo el enlace de la versión Dev channel: <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fc2rsetup.officeapps.live.com%2Fc2r%2FdownloadEdge.aspx%3FProductreleaseID%3DEdge%26platform%3DDefault%26version%3DEdge%26Channel%3DDev%26language%3Den-us%26Consent%3D1%26IID%3Df49409f8-060c-50bc-9bfe-299b9f089e6d&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHjvcYdQ7XUCKOj0TwivGhQsL4cEw" target="_blank" rel="noopener noreferrer">aquí</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Como enviar un correo electrónico sin dejar rastro</title>
         <author>
