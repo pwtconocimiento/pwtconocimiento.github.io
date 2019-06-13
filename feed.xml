@@ -3,12 +3,39 @@
     <title>PWTConocimiento</title>
     <link href="https://pwtconocimiento.github.io/feed.xml" rel="self" />
     <link href="https://pwtconocimiento.github.io" />
-    <updated>2019-06-13T13:50:34-05:00</updated>
+    <updated>2019-06-13T14:05:20-05:00</updated>
     <author>
         <name>Profr. Juan Carlos Cuello</name>
     </author>
     <id>https://pwtconocimiento.github.io</id>
 
+    <entry>
+        <title>Grabar la pantalla en Windows 10</title>
+        <author>
+            <name>Profr. Juan Carlos Cuello</name>
+        </author>
+        <link href="https://pwtconocimiento.github.io/grabar-la-pantalla-en-windows-10.html"/>
+        <id>https://pwtconocimiento.github.io/grabar-la-pantalla-en-windows-10.html</id>
+
+        <updated>2019-06-13T14:05:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                     Para empezar, debes Descargar Monosnap e instalar el programa. Cuando se termine de instalar, tendrás un icono en la parte inferior derecha de tu escritorio, donde esta la hora del sistema. Para iniciar, puede usar cualquiera de las opciones que se te presenta. Para grabar tu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image align-center" src="https://pwtconocimiento.github.io/media/posts/8/background-windows-10.jpg" alt="" width="486" height="344"></p>
+<p id="h.p_VcmUx1l6f16k" class="zfr3Q">Para empezar, debes <a class="dhtgD aw5Odc" href="https://www.google.com/url?q=https%3A%2F%2Fmonosnap.com%2Fwelcome&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHL-RYfe1-ynV8vgp8yYmOGgECGnQ" target="_blank" rel="noopener noreferrer">Descargar Monosnap</a> e instalar el programa. Cuando se termine de instalar, tendrás un icono en la parte inferior derecha de tu escritorio, donde esta la hora del sistema.</p>
+<p id="h.p_JQADAeZBnYcC" class="zfr3Q">Para iniciar, puede usar cualquiera de las opciones que se te presenta. Para grabar tu escritorio selecciona "Record video".</p>
+<p><img class="post__image" src="https://pwtconocimiento.github.io/media/posts/8/monosnap1.png" alt="" width="402" height="330"></p>
+<p>Aparecera una ventana tranparente que se puede mover o redimensionar, de esta forma tu puede elegir si grabar toda la pantalla o un sección.</p>
+<p><img class="post__image" src="https://pwtconocimiento.github.io/media/posts/8/monosnap2.png" alt="" width="388" height="276"></p>
+<p>Tambien puede grabar audio al mismo tiempo y si quieres grabarte a ti mismo desde un tu webcam, haz click en el icono en forma de silueta humana.</p>
+<p><img class="post__image" src="https://pwtconocimiento.github.io/media/posts/8/monosnap3.png" alt="" width="412" height="289"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>¿Has desactivado tu cuenta en Facebook?, no importa: siguen recopilando tus datos</title>
         <author>
