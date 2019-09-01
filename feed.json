@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://pwtconocimiento.github.io/iphone-hackeados-durante-los-ultimos-anos.html",
+            "url": "https://pwtconocimiento.github.io/iphone-hackeados-durante-los-ultimos-anos.html",
+            "title": "iPhone hackeados durante los últimos años",
+            "summary": " Al parecer Apple no es tan segura como siempre preseume, y lo peor es que ni ellos se han dado cuenta.Asi como lo leen, Google a través del grupo de análisis de amanezadas (TAG) dio a conocer el descubrimiento de un perqueño número de&hellip;",
+            "content_html": "<p><img class=\"post__image align-center\" src=\"https://pwtconocimiento.github.io/media/posts/18/iphone.jpg\" alt=\"\" width=\"640\" height=\"427\"></p>\n<p>Al parecer Apple no es tan segura como siempre preseume, y lo peor es que ni ellos se han dado cuenta.Asi como lo leen, Google a través del grupo de análisis de amanezadas (TAG) dio a conocer el descubrimiento de un perqueño número de páginas web hackeadas durante más de dos años que dejó al descubierto todos los datos de los usuarios presente en el teléfono.</p>\n<p>De acuerdo a lo publicado en el blog de Proyect Zero, el equpo de Google que se dedica a investigar las vulnerabilidades de seguridad \"día cero\", los ciberdelicuentes se han esforzado constantemente para hackear a los usuarios de iPhones en ciertas comunidades durante un periodo de al menos dos años.</p>\n<p>Este ataque consistía en el usuario entraba en la página web hackeada, y el atacante podía acceder a su servidor e instalar un sistema de monitorización en su dispositivo que permitía obtener el control absoluto del mismo y, con ello, el acceso a todos sus datos.</p>\n<p>Según Beer, se trata de páginas que reciben miles de visitantes por semana. Se trata de un ataque de tipos \"abrevadero\", una estrategia en la que los atacantes observan los sitios web que visita un grupo de víctimas e infecta uno de ellos con \"malware\", logrando así infectados.</p>",
+            "author": {
+                "name": "Profr. Juan Carlos Cuello"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-01T00:54:30-05:00",
+            "date_modified": "2019-09-01T00:54:30-05:00"
+        },
+        {
             "id": "https://pwtconocimiento.github.io/ampliar-la-ram-de-tu-pc.html",
             "url": "https://pwtconocimiento.github.io/ampliar-la-ram-de-tu-pc.html",
             "title": "Ampliar la RAM de tu PC",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2019-06-13T18:47:02-05:00",
             "date_modified": "2019-06-13T18:47:02-05:00"
-        },
-        {
-            "id": "https://pwtconocimiento.github.io/grabar-la-pantalla-en-windows-10.html",
-            "url": "https://pwtconocimiento.github.io/grabar-la-pantalla-en-windows-10.html",
-            "title": "Grabar la pantalla en Windows 10",
-            "summary": " Para empezar, debes Descargar Monosnap e instalar el programa. Cuando se termine de instalar, tendrás un icono en la parte inferior derecha de tu escritorio, donde esta la hora del sistema. Para iniciar, puede usar cualquiera de las opciones que se te presenta. Para grabar tu&hellip;",
-            "content_html": "<p><img class=\"post__image align-center\" src=\"https://pwtconocimiento.github.io/media/posts/8/background-windows-10.jpg\" alt=\"\" width=\"486\" height=\"344\"></p>\n<p id=\"h.p_VcmUx1l6f16k\" class=\"zfr3Q\">Para empezar, debes <a class=\"dhtgD aw5Odc\" href=\"https://www.google.com/url?q=https%3A%2F%2Fmonosnap.com%2Fwelcome&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHL-RYfe1-ynV8vgp8yYmOGgECGnQ\" target=\"_blank\" rel=\"noopener noreferrer\">Descargar Monosnap</a> e instalar el programa. Cuando se termine de instalar, tendrás un icono en la parte inferior derecha de tu escritorio, donde esta la hora del sistema.</p>\n<p id=\"h.p_JQADAeZBnYcC\" class=\"zfr3Q\">Para iniciar, puede usar cualquiera de las opciones que se te presenta. Para grabar tu escritorio selecciona \"Record video\".</p>\n<p><img class=\"post__image\" src=\"https://pwtconocimiento.github.io/media/posts/8/monosnap1.png\" alt=\"\" width=\"402\" height=\"330\"></p>\n<p>Aparecera una ventana tranparente que se puede mover o redimensionar, de esta forma tu puede elegir si grabar toda la pantalla o un sección.</p>\n<p><img class=\"post__image\" src=\"https://pwtconocimiento.github.io/media/posts/8/monosnap2.png\" alt=\"\" width=\"388\" height=\"276\"></p>\n<p>Tambien puede grabar audio al mismo tiempo y si quieres grabarte a ti mismo desde un tu webcam, haz click en el icono en forma de silueta humana.</p>\n<p><img class=\"post__image\" src=\"https://pwtconocimiento.github.io/media/posts/8/monosnap3.png\" alt=\"\" width=\"412\" height=\"289\"></p>",
-            "author": {
-                "name": "Profr. Juan Carlos Cuello"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-06-13T14:05:11-05:00",
-            "date_modified": "2019-06-13T14:05:11-05:00"
         }
     ]
 }
